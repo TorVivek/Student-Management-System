@@ -353,10 +353,10 @@ def about_us():
 	field_3 = fontcolor.green("Standard")
 	z.field_names = [field_1,field_2,field_3]
 	
-	z.add_row(['Sumit Patidar', 'hahaha','XII'])
-	z.add_row(['Sumit Patidar', 'hahaha','XII'])
-	z.add_row(['Sumit Patidar', 'hahaha','XII'])
-	z.add_row(['Sumit Patidar', 'hahaha','XII'])
+	z.add_row(['NAME I ', 'XYZ','XII'])
+	z.add_row(['NAME II','ABC' ,'XII'])
+	z.add_row(['NAME III', 'XXX','XII'])
+	z.add_row(['NAME IV', 'LOL','XII'])
 
 	print(z)
 	continue_msg()
